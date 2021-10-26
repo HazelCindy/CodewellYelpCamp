@@ -4,11 +4,13 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LandingComponent } from './landing/landing.component';
+import { SearchPageComponent } from './search-page/search-page.component';
 
 @NgModule({
-  declarations: [	
+  declarations: [		
     AppComponent,
-      LandingComponent
+      LandingComponent,
+      SearchPageComponent
    ],
   imports: [
     BrowserModule,

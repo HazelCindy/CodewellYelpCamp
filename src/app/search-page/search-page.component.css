@@ -1,0 +1,18 @@
+.my-10{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+.text{
+  color: gray;
+}
+.welcome-container{
+  background-color: seashell;
+  padding: 2rem;
+}
+.card-container{
+  margin-top: 3rem;
+}
+.container{
+  font-family: "Archivo";
+
+}
